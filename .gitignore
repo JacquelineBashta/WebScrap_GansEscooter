@@ -1,1 +1,3 @@
-api_key.py
+key.py
+*.json
+*pycache*
