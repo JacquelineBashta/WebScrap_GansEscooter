@@ -9,10 +9,11 @@ Please add your Key for the API Keys / passwords inside the file keys/key.py
 
 ## Current MySQL DB Diagram
 
-![image](00_Archticture\MySQL_db.png)
+![image](Archticture\MySQL_db.png)
 
 
 
 ## current workflow
- ![Alt](00_Archticture\DataPipeline.png)
-<a href="https://app.diagrams.net/#HJacquelineBashta%2FWebScrap_GansEscooter%2Fmaster%2F00_Archticture%2FDataPipeline.png" target="_blank">Edit in diagrams.net</a>
+ ![Alt](Archticture\DataPipeline.png)
+
+<a href="https://app.diagrams.net/#HJacquelineBashta%2FWebScrap_GansEscooter%2Fmain%2FArchticture%2FDataPipeline.png" target="_blank">Edit in diagrams.net</a>
