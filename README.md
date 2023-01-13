@@ -13,6 +13,6 @@ Please add your Key for the API Keys / passwords inside the file keys/key.py
 
 
 ## current workflow
- ![image](Archticture\DataPipeline.png)
+![image](Archticture\DataPipeline.png)
 
 <a href="https://app.diagrams.net/#G14g7dpMOla3xDre3g0zHTYKjjAkUVELxz" target="_blank">Edit in diagrams.net</a>
