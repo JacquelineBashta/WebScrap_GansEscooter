@@ -16,4 +16,4 @@ Please add your Key for the API Keys / passwords inside the file keys/key.py
 ## current workflow
  ![Alt](Archticture\DataPipeline.png)
 
-<a href="https://app.diagrams.net/#HJacquelineBashta%2FWebScrap_GansEscooter%2Fmain%2FArchticture%2FDataPipeline.png" target="_blank">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/#G14g7dpMOla3xDre3g0zHTYKjjAkUVELxz" target="_blank">Edit in diagrams.net</a>
